@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Frank Zimmer"
 categories: journal
 tags: [documentation,sample]
-image: cutting.jpg
+image: road.jpg
 ---
 
 Hello reader! I'm Frank. I’m a Physics PhD with a passion for open source and Linux. I'm interested in topics such as DevOps, machine learning and artificial intelligence .
