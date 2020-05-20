@@ -1,0 +1,12 @@
+# Jekyell
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+
+# Ruby
+.bundle
+vendor/bundle
+
+#VScode
+*.code-workspace
