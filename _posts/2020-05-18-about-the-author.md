@@ -11,4 +11,4 @@ Hello reader! I'm Frank. I’m a Physics PhD with a passion for open source and 
 
 Furthermore I'm interested in adult education with an emphasis on mathematics, physics and computer science.
 
-In addition to my job and hobby project I like to spend a fair amount of time with my family.
+In addition to my job and hobby projects I like to spend a fair amount of time with my family.
