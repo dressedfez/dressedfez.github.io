@@ -11,8 +11,6 @@ image: cards.jpg
 
 In the past few weeks all around the world a lot of parents had the double burden of working full time and in addition as well teach their kids who have to stay at home due to the COVID-19 pandemic. My family is not exception here, but I think we managed reasonably well and were not to bad off.
 
-## First grade pupil
-
 My son is a first grade pupil. This means his main task is to learn to read and write. On the math side he learns how to add and subtract whole numbers in the range from zero to twenty and something about symmetry and reading the clock. I am very happy about the progress he has made while I was his only teacher. 
 
 ## From first grade to university math in 15 minutes
@@ -72,9 +70,11 @@ A^{-1}
 \end{pmatrix}
 $$
 
-### Take away
+Using this inverse matrix we can now easily generate new examples of triangle problems of this kinds because the underlying set of equations only changes with respect to the right hand side of the above matrix equation, i.e. the sum values in the triangle.
+
+### Takeaways
 
 Here are for me a few takeaways:
 
-- A simple first grade math problem -- or any type of problem -- can easily get very fast arbitrarily complicated.
-- 
+- A simple first grade math problem -- or any type of problem -- can easily get very fast arbitrarily complicated. This can reach the point of on-going research.
+- Already first grade students can be introduced to the concepts of equations and even sets of linear equations. I personally think that one could easily speed up most of the curriculum and adopt it to the need and speed of each and every student. This unfortunately can not be accomplished by a teacher who has to look after more than twenty students.
