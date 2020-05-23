@@ -70,7 +70,11 @@ A^{-1}
 \end{pmatrix}
 $$
 
-Using this inverse matrix we can now easily generate new examples of triangle problems of this kinds because the underlying set of equations only changes with respect to the right hand side of the above matrix equation, i.e. the sum values in the triangle.
+Applying this from the right-hand side to the above matrix equation one finds the solution: $x=4$, $y=2$ and $z=5$.
+
+Using the inverse matrix we can now easily generate new examples for triangle problems of this kind because the underlying set of equations only changes with respect to the right hand side of the above matrix equation, i.e. the sum values in the triangle. For example using the right-hand side $b^{T} = (15, 13, 18)^{T}$ it is now easy to find the solution even easier than it actually turned out to be in the first place. Note, that you can not choose the right-hand side arbitrarily since the calculations here don't take into account that the summands need to be whole numbers. 
+
+If you're to lazy to do the calculations by yourself you can as well have a look a this short [Jupyter notebook](http://mybinder.org/v2/gh/dressedfez/first-grade-math-problem/master?filepath=Simple_math_first_grade.ipynb).
 
 ### Takeaways
 
