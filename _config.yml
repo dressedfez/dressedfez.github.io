@@ -10,7 +10,7 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
-future: true
+# future: true
 
 # jekyll-paginate configuration
 paginate:            5
